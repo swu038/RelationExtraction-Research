@@ -1,0 +1,19 @@
+pathname
+flags
+file creation flags
+file status flags
+bsdgroups
+sysvgroups
+mode
+umask
+off_t
+any
+can
+dirfd
+errno
+-D_FILE_OFFSET_BITS=64
+(2<<31)-1
+"access mode"
+st_mtime
+st_ctime
+man-pages

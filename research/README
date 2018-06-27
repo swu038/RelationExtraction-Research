@@ -1,0 +1,13 @@
+How to run decompress.sh:
+Takes in one argument. 
+EX) decompress.sh open
+Where open is the name of a man page. 
+Output will be a {manpageName}.txt, the decompressed man page; and a {manpageName}Output.txt, the man page itself.  
+
+How to run relation_extraction.py: 
+Takes in two arguments.
+Ex) manflags.py open.txt openOutput.txt 
+Output will be a {manpageName}Relation.txt
+
+
+  
